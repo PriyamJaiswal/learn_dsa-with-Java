@@ -3,7 +3,7 @@ package Array.essay;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class a1 {
+public class a1_aboutToArray {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
