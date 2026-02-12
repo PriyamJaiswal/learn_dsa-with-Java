@@ -2,7 +2,7 @@ package Array.essay;
 
 import java.util.Scanner;
 
-public class a3 {
+public class a2_sumOfElementsInArray {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("enter size: ");
