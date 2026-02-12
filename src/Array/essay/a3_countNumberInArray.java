@@ -2,7 +2,7 @@ package Array.essay;
 
 import java.util.Scanner;
 
-public class a3 {
+public class a3_countNumberInArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter value of x: ");
